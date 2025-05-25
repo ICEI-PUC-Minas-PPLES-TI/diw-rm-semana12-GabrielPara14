@@ -4,18 +4,18 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: 
+- Matricula: 
+- Proposta de projeto escolhida: Site de notícias
+- Breve descrição sobre seu projeto: 
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  ![print JSON](printJSON.png) >>
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![print network](printNetwork.png)  >>
 
 ## **Orientações Gerais**
 
