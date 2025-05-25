@@ -4,10 +4,10 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 
 ## Informações do trabalho
 
-- Nome: 
-- Matricula: 
+- Nome: Gabriel Alves de Moura Pará
+- Matricula: 895130
 - Proposta de projeto escolhida: Site de notícias
-- Breve descrição sobre seu projeto: 
+- Breve descrição sobre seu projeto: Site com banner principal, menu de navegação e outras notícias abaixo do banner, responsividade para todos os tipos de aparelhos, mecanismo de busca por categoria e caractere, rodapé com informações sobre o site.
 
 **Print do teste da API com visualização do JSON**
 
